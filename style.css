@@ -208,7 +208,7 @@ span {
   left: 0;
   width: 100%;
   height: 0.5rem;
-  background: hsla(260, 100%, 44%, 0.4);
+  background: hsla(260, 100%, 44%, 0.4, 44%);
   border-radius: 0.5rem;
 }
 .percent-bar {
@@ -312,7 +312,7 @@ textarea {
   width: 100%;
   border: none;
   outline: none;
-  background: hsla(260, 100%, 44%, 0.1,44%);
+  background: hsla(260, 100%, 44%, 0.1 ,44%);
   margin-bottom: 1rem;
   color: var(--text-color);
 }
