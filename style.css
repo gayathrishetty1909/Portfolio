@@ -312,7 +312,7 @@ textarea {
   width: 100%;
   border: none;
   outline: none;
-  background: hsla(260, 100%, 44%, 0.1);
+  background: hsla(260, 100%, 44%, 0.1,44%);
   margin-bottom: 1rem;
   color: var(--text-color);
 }
